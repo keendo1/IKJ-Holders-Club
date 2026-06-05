@@ -9,8 +9,8 @@ import {
 } from 'wagmi/chains';
 
 export const config = getDefaultConfig({
-  appName: 'RainbowKit App',
-  projectId: 'YOUR_PROJECT_ID',
+  appName: 'IKJ',
+  projectId: '764550b6ab19e4905ef89d91efff356a',
   chains: [
     mainnet,
     polygon,
